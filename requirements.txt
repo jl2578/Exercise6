@@ -4,3 +4,12 @@ notebook
 pandas
 geopandas
 matplotlib
+folium
+numpy
+seaborn
+mapclassify>=2.4.0
+ipykernel
+pyproj
+shapely
+fiona
+rtree
