@@ -1,0 +1,6 @@
+# Requirements for Exercise 6
+jupyter
+notebook
+pandas
+geopandas
+matplotlib
